@@ -13,7 +13,7 @@ You can see a few of my projects at the links below:
 ## Notable Projects & Leadership
 
 * **AI Policy Analysis & Writing Portfolio**. Conducted comprehensive research on U.S. AI governance fragmentation that creates $1 trillion in potential compliance costs and inconsistent citizen protections, developing strategic recommendations for a unified federal framework. Through comparative analysis of international models (EU and China) and economic impact assessment, I learned policy analysis methodologies and the delicate balance between fostering innovation and protecting citizens in emerging technology regulation. This work demonstrates how rigorous research can inform critical policy decisions in rapidly evolving technological landscapes. [Policy memo](https://drive.google.com/file/d/1pcCSkHF1jrKJoyJ-MwQHYQwdnpikdGhA/view?usp=sharing) | [Policy pitch](https://drive.google.com/file/d/16wA6bZwQTMn4t_B6PpJBIPLD3LcUdG43/view?usp=sharing)
-* 
+  
 * **Data, Ethics, and Policy Conference 2024: Governance in a Digital World** - Led student organization of this conference bringing together thought leaders from academia, industry, government, and community organizations. Won Outstanding Program award from Harris School of Public Policy. [Event website](https://www.data-ethics-policy.com/home)
 
 * **Hacking for Defense Program - U.S. Air Force Contracting Process Optimization** - Conducted 40+ hours of stakeholder interviews to identify engagement barriers and validated a $74B market opportunity for workforce innovation. Co-developed strategic proposal for a gamified platform to address employee disengagement. [Pitch deck](https://drive.google.com/file/d/1riUDzvwXPA_kZX2GU7pif27Yng_2APfu/view?usp=sharing)
