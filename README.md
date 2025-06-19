@@ -18,7 +18,7 @@ You can see a few of my projects at the links below:
 
 * **Hacking for Defense Program - U.S. Air Force Contracting Process Optimization** - Conducted 40+ hours of stakeholder interviews to identify engagement barriers and validated a $74B market opportunity for workforce innovation. Co-developed strategic proposal for a gamified platform to address employee disengagement. [Pitch deck](https://drive.google.com/file/d/1riUDzvwXPA_kZX2GU7pif27Yng_2APfu/view?usp=sharing)
 
-Other (private) projects include: Building and maintaining real-time executive dashboards enhancing data integrity for services impacting 500+ households in South Chicago with Gifts from Liam, and contributing to local government accountability tracker with Institute of Governance Reform.
+Other (private) projects include: Building and maintaining real-time executive dashboards enhancing data integrity for services impacting 500+ households in South Chicago with [Gifts from Liam](https://giftsfromliam.org/?v=0b3b97fa6688), and contributing to [local government accountability tracker](https://slgst.org/local-government-reform/) with the [Institute of Governance Reform](https://igr-sl.org/).
 
 ## Programming Languages
 
